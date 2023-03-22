@@ -10,7 +10,7 @@ This program will help user view their organization's employees, departments, an
 
 ## Experience
 
-Managing the querys gave me a headache, but I was happy with the result once I was done. The assignement allowed me to learn more about mySQL and put it to use.
+Managing the querys gave me a headache, but I was happy with the result once I was done. Then I realized I should have read the description of the assignment more closely and worked with a .promise() function, but at that point, it was too late. The assignement allowed me to learn more about mySQL and put it to use.
 
 ## Usage
 
