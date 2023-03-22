@@ -92,13 +92,11 @@ function addEmployee() {
       value: manager.id,
     }));
     managers.unshift({ name: "None", value: null });
-    console.log("managers", managers);
     db.query("SELECT * FROM roles", function (err, results) {
       roles = results.map((role) => ({
         name: role.title,
         value: role.id,
       }));
-      console.log("roles", roles);
       inquirer
         .prompt([
           {
